@@ -11285,7 +11285,7 @@ section#contact form#contactForm p.help-block {
   margin: 0;
 }
 section#contact form#contactForm .form-control:focus {
-  border-color: #ffc800;
+  border-color: #002966;
   box-shadow: none;
 }
 section#contact form#contactForm ::-webkit-input-placeholder {
