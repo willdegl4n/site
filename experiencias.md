@@ -67,6 +67,24 @@ Projetos em destaque: [App]()
 <br/>
 
 <br/>
-### Formação
+
+### Formação Academica 
+
+[<img align="left" height="94px" width="94px" alt="" src="https://media.licdn.com/dms/image/v2/C4E1BAQEV6LehXc__mA/company-background_10000/company-background_10000/0/1621875804976/unebdf_cover?e=2147483647&v=beta&t=gMDTCv05Wx0LBby6mrQ751ixiJgLjBzMaA02cx0-pVw"/>](#)
+**Analise e Desenvolvimento de Sistema** \
+*União Educacional de Brasilia* \
+Graduação \
+Inicio: Fev/2014 - Termino: Nov/2016
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="" src="https://aeronautas.org.br/wp-content/uploads/2022/05/Unyleya.png"/>](#)
+**Banco de Dados** \
+*Faculdade Unyleya* \
+Pós-Graduação \
+Inicio: Fev/2014 - Termino: Nov/2016
+<br/>
+
+<br/>
+
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/willdeglan/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
